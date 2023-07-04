@@ -1,1 +1,8 @@
+# 作ったリポジトリをclone
+git clone git@github.com:suin/makumo.git
 
+# HTMLファイルとNetlify設定ファイルを作る
+cd makumo/
+mkdir main/
+touch main/CoC_109.html
+touch netlify.toml
