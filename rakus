@@ -9,5 +9,5 @@ touch netlify.toml
 
 
 git add -A .
-git commit -m "add public/index.html and netlify.toml"
+git commit -m "add main/109_CoC.html and netlify.toml"
 git push
