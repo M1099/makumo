@@ -3,11 +3,11 @@ git clone git@github.com:suin/makumo.git
 
 # HTMLファイルとNetlify設定ファイルを作る
 cd makumo/
-mkdir main/
+mkdir public/
 touch main/CoC_109.html
 touch netlify.toml
 
 
 git add -A .
-git commit -m "add main/109_CoC.html and netlify.toml"
+git commit -m "add public/109_CoC.html and netlify.toml"
 git push
